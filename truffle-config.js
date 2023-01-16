@@ -2,7 +2,7 @@
 // const { MNEMONIC, PROJECT_ID } = process.env;
 
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const privateKeys = ['0xbfa15779740a439febdebaeccbfd3dd271469fc4989452d6118df62cc9480604']
+const privateKeys = ['']
 module.exports = {
   /**
    * Networks define how you connect to your ethereum client and let you set the
