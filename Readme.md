@@ -9,6 +9,9 @@ npm i -g truffle
 install dependencies:
 npm install
 
+En el archivo truffle-config.js añade tu llave privada de metamask desde la cual harás los despliegues
+Tu llave estará segura siempre y cuando no subs tu c+odigo a internet
+
 Deploy to testnet:
 truffle migrate --network mumbai --reset
 
