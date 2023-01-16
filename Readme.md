@@ -9,8 +9,8 @@ npm i -g truffle
 install dependencies:
 npm install
 
-Deploy to testnet
+Deploy to testnet:
 truffle migrate --network mumbai --reset
 
-Deploy to Mainnet
+Deploy to Mainnet:
 truffle migrate --network polygon --reset
