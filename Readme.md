@@ -1,4 +1,4 @@
-git clone
+git clone https://github.com/DiegoRX/dex-contracts
 
 install node js LTS: 
 https://nodejs.org/en/
